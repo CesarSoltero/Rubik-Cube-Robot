@@ -24,7 +24,7 @@ All parts were designed by me, using Solidworks and 3D Printed. It uses stepper 
 All parts and assembly in '/cad' folder.
 
 ## Images :camera:
-[Prototype] (images/prototype.jpeg)
+![Prototype] (images/prototype.jpeg)
 
 ## :film_projector: Video
 https://youtu.be/PElHr9mIuuI?si=LBbM1NEf3MKbrfhR
