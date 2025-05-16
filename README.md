@@ -27,5 +27,5 @@ All parts and assembly in '/cad' folder.
 ![Prototype](images/render.jpeg)
 
 ## :film_projector: Video
-- Solve sample: https://youtu.be/PElHr9mIuuI?si=LBbM1NEf3MKbrfhR
-- Vision System: [URL]
+- [Prototype Explanation and Solving Example](https://youtu.be/PElHr9mIuuI?si=LBbM1NEf3MKbrfhR)
+- [Color Detection System](https://www.youtube.com/watch?v=Fha9vGLGpn8)
