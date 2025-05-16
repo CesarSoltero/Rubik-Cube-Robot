@@ -1,19 +1,3 @@
-//Algoritmo a imitar: Fridrich Reducido
-/*
-    Nombre: Cesar Soltero Perez
-    Fecha: 28/09/2022
-
-    Update: 12/10/2022
-
-    Cambios a hacer:
-    -Validad colores (9 colores maximo de cada uno)
-    -Funcion para cancelar escaner
-
-    Objetivos:
-    -Hacer Cruz
-    -Algoritmo para revolver
-    -Validaciones
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
